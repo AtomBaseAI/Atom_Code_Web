@@ -47,7 +47,7 @@ export default function Contact() {
                 <div className="card contact-detail text-center border-0">
                   <div className="card-body p-0">
                     <div className="icon">
-                      <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//icon/Email.svg" className="avatar avatar-small" alt="hive" />
+                      <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/icon/Email.svg" className="avatar avatar-small" alt="hive" />
                     </div>
                     <div className="content mt-3">
                       <h4 className="title font-weight-bold">Email</h4>
@@ -63,7 +63,7 @@ export default function Contact() {
                 <div className="card contact-detail text-center border-0">
                   <div className="card-body p-0">
                     <div className="icon">
-                      <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//icon/location.svg" className="avatar avatar-small" alt="hive" />
+                      <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/icon/location.svg" className="avatar avatar-small" alt="hive" />
                     </div>
                     <div className="content mt-3">
                       <h4 className="title font-weight-bold">Location(Head Office)</h4>
@@ -88,24 +88,24 @@ export default function Contact() {
                       <div className="col-6">
                         <div className="icon m-5">
                           <Link href="tel:+0424 3555195">
-                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//social/1.png" className="avatar avatar-small" alt="hive" />
+                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/social/1.png" className="avatar avatar-small" alt="hive" />
                           </Link>
                         </div>
                         {/* <div className="icon m-5">
                           <Link href="https://www.facebook.com/nodehivecorp">
-                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//social/3.png" className="avatar avatar-small" alt="hive" />
+                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/social/3.png" className="avatar avatar-small" alt="hive" />
                           </Link>
                         </div> */}
                       </div>
                       <div className="col-6">
                         <div className="icon m-5">
                           <Link href="mailto:info@atomcode.dev">
-                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//social/2.png" className="avatar avatar-small" alt="hive" />
+                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/social/2.png" className="avatar avatar-small" alt="hive" />
                           </Link>
                         </div>
                         {/* <div className="icon m-5">
                           <Link href="https://www.instagram.com/nodehive/">
-                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//social/4.png" className="avatar avatar-small" alt="hive" />
+                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/social/4.png" className="avatar avatar-small" alt="hive" />
                           </Link>
                         </div> */}
                       </div>
@@ -117,7 +117,7 @@ export default function Contact() {
               <div className="col-lg-7 col-md-6 order-1 order-md-2">
                 <div className="card border-0">
                   <div className="card-body p-0">
-                    <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//contact.svg" className="img-fluid" alt="hive" />
+                    <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/contact.svg" className="img-fluid" alt="hive" />
                   </div>
                 </div>
               </div>

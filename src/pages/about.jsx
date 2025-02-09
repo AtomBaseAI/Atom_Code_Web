@@ -82,7 +82,7 @@ export default function About() {
                   <div className="col-lg-6 col-6 mt-4 mt-lg-0 pt-2 pt-lg-0">
                     <div className="card work-container work-modern overflow-hidden rounded border-0 shadow-md">
                       <div className="card-body p-0">
-                        <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//about/ab01.jpg" className="img-fluid" alt="work-image" />
+                        <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/about/ab01.jpg" className="img-fluid" alt="work-image" />
                         <div className="overlay-work bg-dark" />
                         <div className="content">
                           <Link href="#" className="title text-white d-block font-weight-bold">Digital Marketing</Link>
@@ -95,7 +95,7 @@ export default function About() {
                       <div className="col-lg-12 col-md-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
                         <div className="card work-container work-modern overflow-hidden rounded border-0 shadow-md">
                           <div className="card-body p-0">
-                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//about/ab02.jpg" className="img-fluid" alt="work-image" />
+                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/about/ab02.jpg" className="img-fluid" alt="work-image" />
                             <div className="overlay-work bg-dark" />
                             <div className="content">
                               <Link href="#" className="title text-white d-block font-weight-bold">Dev</Link>
@@ -106,7 +106,7 @@ export default function About() {
                       <div className="col-lg-12 col-md-12 mt-4 pt-2">
                         <div className="card work-container work-modern overflow-hidden rounded border-0 shadow-md">
                           <div className="card-body p-0">
-                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//about/ab03.jpg" className="img-fluid" alt="work-image" />
+                            <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/about/ab03.jpg" className="img-fluid" alt="work-image" />
                             <div className="overlay-work bg-dark" />
                             <div className="content">
                               <Link href="#" className="title text-white d-block font-weight-bold">In-Office Tranings</Link>
@@ -136,7 +136,7 @@ export default function About() {
             </div>
           </div>
           {/* <div className="container-fluid mt-100 mt-60">
-            <div className="rounded py-5" style={{ background: 'url("https://ik.imagekit.io/atominc/ATOMCODE_Web//about/cta.jpg") center center' }}>
+            <div className="rounded py-5" style={{ background: 'url("https://ik.imagekit.io/atominc/ATOMCODE_Web/about/cta.jpg") center center' }}>
               <div className="container py-md-5 py-3">
                 <div className="row">
                   <div className="col-lg-6 col-md-7 col-12 offset-lg-6 offset-md-5">

@@ -126,7 +126,7 @@ export default function Web() {
                 </div>
               </div>  
               <div className="col-lg-5 col-md-6 order-1 order-md-2">
-                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//illustratorx/app_development_SVG.svg" alt="hive" />
+                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/illustratorx/app_development_SVG.svg" alt="hive" />
               </div>  
             </div>  
           </div>  
