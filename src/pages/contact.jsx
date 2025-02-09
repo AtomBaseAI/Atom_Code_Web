@@ -117,7 +117,7 @@ export default function Contact() {
               <div className="col-lg-7 col-md-6 order-1 order-md-2">
                 <div className="card border-0">
                   <div className="card-body p-0">
-                    <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/contact.svg" className="img-fluid" alt="hive" />
+                    <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/contactx.svg" className="img-fluid" alt="hive" />
                   </div>
                 </div>
               </div>
