@@ -40,7 +40,7 @@ export default function Errorx() {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-md-6">
-                                <img src="https://ik.imagekit.io/nodehive/hive/illustratorx/r4.svg" className="mr-md-4" alt="hive" />
+                                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//illustratorx/r4.svg" className="mr-md-4" alt="hive" />
                             </div>
                             <div className="col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                                 <div className="section-title ml-lg-5">

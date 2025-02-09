@@ -124,7 +124,7 @@ export default function Trainings() {
                 </div>
               </div>  
               <div className="col-lg-5 col-md-6 order-1 order-md-2">
-                <img src="https://ik.imagekit.io/nodehive/hive/illustratorx/inbox-cleanup.svg" alt="hive" />
+                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//illustratorx/inbox-cleanup.svg" alt="hive" />
               </div>  
             </div>  
           </div>  

@@ -125,7 +125,7 @@ export default function Seo() {
                                 </div>
                             </div>  
                             <div className="col-lg-5 col-md-6 order-1 order-md-2">
-                                <img src="https://ik.imagekit.io/nodehive/hive/illustratorx/Social-Media.svg" alt="hive" />
+                                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web//illustratorx/Social-Media.svg" alt="hive" />
                             </div>  
                         </div>  
                     </div>  
