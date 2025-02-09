@@ -53,7 +53,7 @@ export default function Contact() {
                       <h4 className="title font-weight-bold">Email</h4>
                       <p className="text-muted">Mail us your querries to get instant solution<br /> for your business
                         (or) career development</p>
-                      <Link href="mailto:info@nodehive.in" className="text-indigo">info@nodehive.in</Link>
+                      <Link href="mailto:info@atomcode.dev" className="text-indigo">info@atomcode.dev</Link>
                     </div>
                   </div>
                 </div>
@@ -99,7 +99,7 @@ export default function Contact() {
                       </div>
                       <div className="col-6">
                         <div className="icon m-5">
-                          <Link href="mailto:info@nodehive.in">
+                          <Link href="mailto:info@atomcode.dev">
                             <img src="https://ik.imagekit.io/nodehive/hive/social/2.png" className="avatar avatar-small" alt="hive" />
                           </Link>
                         </div>

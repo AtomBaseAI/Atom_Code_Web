@@ -27,7 +27,7 @@ function Navbar() {
                     <div>
                         <Link className="logo" href="/">
                             <img
-                                src="https://ik.imagekit.io/nodehive/hive/logo-dark.png"
+                                src="https://ik.imagekit.io/atominc/ATOMCODE_Web/ATOM%20CODE%20LOGO%20RECTANGLE%204909X512.png"
                                 height={24}
                                 alt="Nodehive"
                                 className="text-indigo"
