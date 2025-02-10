@@ -140,10 +140,10 @@ export default function Home() {
               <div className="col-md-7 col-12 mt-4 pt-2">
                 <Tab.Panels className="tab-content ml-lg-4">
                   <Tab.Panel>
-                    <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/task/1.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
+                    <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/illustratorx/webx.svg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
                   </Tab.Panel>
                   <Tab.Panel>
-                    <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/task/2.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
+                    <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/illustratorx/Mobile.svg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
                   </Tab.Panel>
                   <Tab.Panel>
                     <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/task/3.jpg" className="img-fluid mx-auto rounded-md shadow-lg d-block" alt="hive" />
