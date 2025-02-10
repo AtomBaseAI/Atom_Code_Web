@@ -35,7 +35,7 @@ export default function Footer() {
                                 </ul>
                             </div>
                             <div className="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                                <h4 className="text-light footer-head">Newletter</h4>
+                                <h4 className="text-light footer-head">Newsletter</h4>
                                 <form  name="subscribe" method="POST" data-netlify="true">
                                     <div className="row">
                                         <div className="col-lg-12">
