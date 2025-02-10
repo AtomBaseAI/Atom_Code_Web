@@ -19,7 +19,7 @@ export default function Home() {
               </div>
             </div>
             <div className="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
-              <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/HomeAsstesx/Startup_SVG_css.svg" alt="hive" />
+              <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/illustratorx/Startup_SVG_css.svg" alt="hive" />
             </div>
           </div>
         </div>
