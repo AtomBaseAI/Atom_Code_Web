@@ -19,7 +19,7 @@ export default function Home() {
               </div>
             </div>
             <div className="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
-              <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/illustratorx/Startup_SVG_css.svg" alt="hive" />
+              <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/HomeAsstesx/Startup_SVG_css.svg" alt="hive" />
             </div>
           </div>
         </div>
@@ -163,28 +163,28 @@ export default function Home() {
           <div className="row mt-4 pt-2 position-relative" id="counter" style={{ zIndex: 1 }}>
             <div className="col-md-3 col-6 mt-4 pt-2">
               <div className="counter-box text-center">
-                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/illustrator/Asset190.svg" className="avatar avatar-small" alt="hive" />
+                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/HomeAsstes/Asset190.svg" className="avatar avatar-small" alt="hive" />
                 <h2 className="mb-0 mt-4"><span className="counter-value" data-count={50}>50</span>+</h2>
                 <h6 className="counter-head text-muted">Happy Client</h6>
               </div>
             </div>
             <div className="col-md-3 col-6 mt-4 pt-2">
               <div className="counter-box text-center">
-                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/illustrator/Asset189.svg" className="avatar avatar-small" alt="hive" />
+                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/HomeAsstes/Asset189.svg" className="avatar avatar-small" alt="hive" />
                 <h2 className="mb-0 mt-4"><span className="counter-value" data-count={100}>100</span>%</h2>
                 <h6 className="counter-head text-muted">Client Retention Rate</h6>
               </div>
             </div>
             <div className="col-md-3 col-6 mt-4 pt-2">
               <div className="counter-box text-center">
-                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/illustrator/Asset192.svg" className="avatar avatar-small" alt="hive" />
+                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/HomeAsstes/Asset192.svg" className="avatar avatar-small" alt="hive" />
                 <h2 className="mb-0 mt-4"><span className="counter-value" data-count={2}>2k</span>+</h2>
                 <h6 className="counter-head text-muted">Monthly Active Users</h6>
               </div>
             </div>
             <div className="col-md-3 col-6 mt-4 pt-2">
               <div className="counter-box text-center">
-                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/illustrator/Asset187.svg" className="avatar avatar-small" alt="hive" />
+                <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/HomeAsstes/Asset187.svg" className="avatar avatar-small" alt="hive" />
                 <h2 className="mb-0 mt-4"><span className="counter-value" data-count={50}>50</span>+</h2>
                 <h6 className="counter-head text-muted">Team size</h6>
               </div>
