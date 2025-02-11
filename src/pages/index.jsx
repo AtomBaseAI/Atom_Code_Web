@@ -11,8 +11,11 @@ export default function Home() {
               <div className="title-heading mt-4">
                 <h1 className="heading mb-3">Welcome to <span className="text-indigo">Atom Code </span>Dev </h1>
                 <p className="para-desc text-muted">
-                  A AI enabled next generation platform to Supercharge the engineering career.
-                  </p>
+                  Join the next generation of AI-powered engineers.
+                  Grow your skills and connect with a thriving community.
+                  Reimagine engineering with AI-powered tools.
+                  Fueled by AI, powered by Atom Code Dev.
+                </p>
                 <div className="mt-4">
                   <Link href="#getstarted" className="btn btn-primary mt-2 mr-2">Get Started <i className="mdi mdi-chevron-right" /></Link>
                 </div>
@@ -106,32 +109,32 @@ export default function Home() {
                   <Tab className="nav-item bg-light rounded-md tab-componentx">
                     <div className="nav-link rounded-md">
                       <div className="p-3 text-left">
-                        <h5 className="title text-indigo">Websites &amp; Web Applications</h5>
-                        <p className="text-muted tab-para mb-0">We build websites/webapps on PHP, Wordpress, Angularjs, Reactjs as per the requirment</p>
+                        <h5 className="title text-indigo">Code Smarter, Not Harder</h5>
+                        <p className="text-muted tab-para mb-0">Explore new coding techniques and patterns with AI-powered suggestions that broaden your knowledge and enhance your coding creativity</p>
                       </div>
                     </div>
                   </Tab>
                   <Tab className="nav-item bg-light rounded-md tab-componentx">
                     <div className="nav-link rounded-md">
                       <div className="p-3 text-left">
-                        <h5 className="title text-indigo">Native &amp; Hybrid Mobile Applications</h5>
-                        <p className="text-muted tab-para mb-0">We build Native Android/IOS &amp; hybrid (IONIC 4, FLUTTER) as per the requirment</p>
+                        <h5 className="title text-indigo">Data-Powered Progress Tracking</h5>
+                        <p className="text-muted tab-para mb-0">Track learner progress, identify strengths and weaknesses, and visualize the path to mastery with our comprehensive result matrix</p>
                       </div>
                     </div>
                   </Tab>
                   <Tab className="nav-item bg-light rounded-md tab-componentx">
                     <div className="nav-link rounded-md">
                       <div className="p-3 text-left">
-                        <h5 className="title text-indigo">SEO &amp; Digital Marketings</h5>
-                        <p className="text-muted tab-para mb-0">We provides digital marketing on social media &amp; search consoles , site ranking tools, Sitemappers for SEO.</p>
+                        <h5 className="title text-indigo">Open IDE - Unleash Your Coding Potential</h5>
+                        <p className="text-muted tab-para mb-0">The OpenIDE provides an interactive environment where you can learn by doing, with customizable inputs to test your code and refine your problem-solving abilities</p>
                       </div>
                     </div>
                   </Tab>
                   <Tab className="nav-item bg-light rounded-md tab-componentx">
                     <div className="nav-link rounded-md">
                       <div className="p-3 text-left">
-                        <h5 className="title text-indigo">In-office Trainings</h5>
-                        <p className="text-muted tab-para mb-0">We provides technical training for freshers &amp; students on LAMP, MEAN &amp; MERN STACK platforms.</p>
+                        <h5 className="title text-indigo">Future-Proof Your Skills</h5>
+                        <p className="text-muted tab-para mb-0">Unlock lucrative career opportunities with our comprehensive training in MERN/MEAN Full stacks, AWS cloud,  Selenium test automation, Power BI, Devops</p>
                       </div>
                     </div>
                   </Tab>
