@@ -46,7 +46,7 @@ export default function About() {
                   </span>
                   <div className="card-body p-0 content">
                     <h5>Our Vision</h5>
-                    <p className="para text-muted mb-0">Our vision is to become a midsized corporate by the year of 2025. Safe guard the client’s need through an utmost integration and satisfying them with our services.</p>
+                    <p className="para text-muted text-mutedx  mb-0">Our vision is to become a midsized corporate by the year of 2025. Safe guard the client’s need through an utmost integration and satisfying them with our services.</p>
                   </div>
                 </div>
               </div>
@@ -57,7 +57,7 @@ export default function About() {
                   </span>
                   <div className="card-body p-0 content">
                     <h5>Our Mission</h5>
-                    <p className="para text-muted mb-0">Our mission is to deliver the optimal solutions given with first-rated and standardized services at the affordable prices. First and foremost policy is to fulfill the customers need in a graded priority.</p>
+                    <p className="para text-muted text-mutedx mb-0">Our mission is to deliver the optimal solutions given with first-rated and standardized services at the affordable prices. First and foremost policy is to fulfill the customers need in a graded priority.</p>
                   </div>
                 </div>
               </div>
@@ -68,7 +68,7 @@ export default function About() {
                   </span>
                   <div className="card-body p-0 content">
                     <h5>Our Goal</h5>
-                    <p className="para text-muted mb-0">Give massive contribution to our country economy development by growing up local business via digitalizing &amp; creating highly skilled programmers via in-office training programs.</p>
+                    <p className="para text-muted text-mutedx mb-0">Give massive contribution to our country economy development by growing up local business via digitalizing &amp; creating highly skilled programmers via in-office training programs.</p>
                   </div>
                 </div>
               </div>

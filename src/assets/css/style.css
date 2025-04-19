@@ -183,7 +183,13 @@ a {
 a.text-muted:hover, a.text-muted:focus {
   color: #75859b !important;
 }
+.text-mutedx {
+  color: #9784a6 !important;
+}
 
+a.text-mutedx:hover, a.text-mutedx:focus {
+  color: #faf5ff !important;
+}
 .bg-light {
   background-color: #f8f9fc !important;
 }
