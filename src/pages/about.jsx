@@ -203,7 +203,7 @@ export default function About() {
           <div className="text-center">
             <div className="section-title">
               <h4 className="title mb-4">Have Question ? Get in touch!</h4>
-              <p className="text-muted para-desc mx-auto">Start your bussiness's digital services with<span className="text-indigo font-weight-bold"> NODEHIVE</span>'s technicial experts. Contact us to get more detials about our services and pricings</p>
+              <p className="text-muted para-desc mx-auto">Start your bussiness's digital services with<span className="text-indigo font-weight-bold"> Atom Code</span>'s technicial experts. Contact us to get more detials about our services and pricings</p>
               <Link href="/contact" className="btn btn-primary mt-4"><i className="mdi mdi-phone" /> Contact us</Link>
             </div>
           </div>
