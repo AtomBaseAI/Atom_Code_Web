@@ -14,7 +14,12 @@ export default function Footer() {
                                 <Link href="#" className="logo-footer">
                                     <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/ATOM%20CODE%20LOGO%20RECTANGLE%20LIGHT.png?updatedAt=1739081124015" height={24} alt="logo-dark" />
                                 </Link>
-                                <p className="mt-4">Start working with NODEHIVE that can provide everything digitalized for your business. Our modern technicial solutions helps your business optimization that reaches for more users via your website/web app/mobile app.</p>
+                                <p className="mt-4">
+                                    Join the next generation of AI-powered engineers.
+                                    Grow your skills and connect with a thriving community.
+                                    Reimagine engineering with AI-powered tools.
+                                    Fueled by AI, powered by Atom Code Dev.
+                                </p>
                             </div>
                             <div className="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                                 <h4 className="text-light footer-head">Company</h4>
@@ -36,7 +41,7 @@ export default function Footer() {
                             </div>
                             <div className="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                                 <h4 className="text-light footer-head">Newsletter</h4>
-                                <form  name="subscribe" method="POST" data-netlify="true">
+                                <form name="subscribe" method="POST" data-netlify="true">
                                     <div className="row">
                                         <div className="col-lg-12">
                                             <div className="mt-2 foot-subscribe form-group position-relative">
@@ -62,18 +67,23 @@ export default function Footer() {
                                     <p className="mb-0">© 2023-2025 <span className="text-indigo">Atom Code</span> Dev</p>
                                 </div>
                             </div>
-                            <div className="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
-                                <ul className="list-unstyled text-sm-right mb-0">
-                                     {/* <li className="list-inline-item mx-2"><Link href="https://www.facebook.com/nodehivecorp" className="btn btn-icon btn-pills btn-lg btn-blue" data-toggle="tooltip" data-placement="top" title="Facebook"><Facebook className="icons" /></Link></li>
-                                    <li className="list-inline-item mx-2"><Link href="https://www.instagram.com/nodehive/" className="btn btn-icon btn-pills btn-lg btn-secondary" data-toggle="tooltip" data-placement="top" title="Instagram"><Instagram className="icons" /></Link></li> */}
-                                    <li className="list-inline-item mx-2"><Link href="https://github.com/nodehive" className="btn btn-icon btn-pills btn-lg btn-warning" data-toggle="tooltip" data-placement="top" title="Gitlab"><Gitlab className="icons" /></Link></li>
-                                </ul>
+                            <div className="col-sm-6">
+                                <div className="text-sm-right">
+                                    <p className="mb-0">Powered by <span className="activex font-weight-bold">Atom Labs</span></p>
+                                </div>
                             </div>
+                            {/* <div className="col-sm-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                                <ul className="list-unstyled text-sm-right mb-0"> */}
+                            {/* <li className="list-inline-item mx-2"><Link href="https://www.facebook.com/nodehivecorp" className="btn btn-icon btn-pills btn-lg btn-blue" data-toggle="tooltip" data-placement="top" title="Facebook"><Facebook className="icons" /></Link></li>
+                                    <li className="list-inline-item mx-2"><Link href="https://www.instagram.com/nodehive/" className="btn btn-icon btn-pills btn-lg btn-secondary" data-toggle="tooltip" data-placement="top" title="Instagram"><Instagram className="icons" /></Link></li> */}
+                            {/* <li className="list-inline-item mx-2"><Link href="https://github.com/nodehive" className="btn btn-icon btn-pills btn-lg btn-warning" data-toggle="tooltip" data-placement="top" title="Gitlab"><Gitlab className="icons" /></Link></li>
+                                </ul>
+                            </div> */}
                         </div>
                     </div>
                 </footer>
             </div>
-            <ScrollToTop smooth color="#5caafd" width='20' height='20' className="btn btn-icon btn-soft-primary b-t-t"/>
+            <ScrollToTop smooth color="#5caafd" width='20' height='20' className="btn btn-icon btn-soft-primary b-t-t" />
 
         </>
     )

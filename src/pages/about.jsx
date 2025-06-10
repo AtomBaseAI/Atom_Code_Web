@@ -42,33 +42,39 @@ export default function About() {
               <div className="col-lg-4 col-md-6 col-12">
                 <div className="card features fea-primary rounded p-4 bg-light position-relative overflow-hidden border-0">
                   <span className="h1 icon2 text-indigo">
-                    <Briefcase size={40}/>
+                    <Briefcase size={40} />
                   </span>
                   <div className="card-body p-0 content">
                     <h5>Our Vision</h5>
-                    <p className="para text-muted text-mutedx  mb-0">Our vision is to become a midsized corporate by the year of 2025. Safe guard the client’s need through an utmost integration and satisfying them with our services.</p>
+                    <p className="para text-muted text-mutedx  mb-0">
+                      To revolutionize tech education by integrating AI-powered learning, empowering the next generation of engineers to innovate, build, and thrive in a rapidly evolving digital world.
+                    </p>
                   </div>
                 </div>
               </div>
               <div className="col-lg-4 col-md-6 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
                 <div className="card features fea-primary rounded p-4 bg-light position-relative overflow-hidden border-0">
                   <span className="h1 icon2 text-indigo">
-                    <Navigation size={40}/>
+                    <Navigation size={40} />
                   </span>
                   <div className="card-body p-0 content">
                     <h5>Our Mission</h5>
-                    <p className="para text-muted text-mutedx mb-0">Our mission is to deliver the optimal solutions given with first-rated and standardized services at the affordable prices. First and foremost policy is to fulfill the customers need in a graded priority.</p>
+                    <p className="para text-muted text-mutedx mb-0">
+                      We aim to bridge the gap between education and real-world application by equipping learners with cutting-edge tools, expert mentorship, and a thriving community—fueling innovation, one coder at a time.
+                    </p>
                   </div>
                 </div>
               </div>
               <div className="col-lg-4 col-md-6 col-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
                 <div className="card features fea-primary rounded p-4 bg-light position-relative overflow-hidden border-0">
                   <span className="h1 icon2 text-indigo">
-                    <Target size={40}/>
+                    <Target size={40} />
                   </span>
                   <div className="card-body p-0 content">
                     <h5>Our Goal</h5>
-                    <p className="para text-muted text-mutedx mb-0">Give massive contribution to our country economy development by growing up local business via digitalizing &amp; creating highly skilled programmers via in-office training programs.</p>
+                    <p className="para text-muted text-mutedx mb-0">
+                      Our goal is to empower aspiring engineers with AI-driven tools and hands-on coding experience, making programming education intuitive, accessible, and industry-relevant.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -85,7 +91,7 @@ export default function About() {
                         <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/about/ab01.jpg" className="img-fluid" alt="work-image" />
                         <div className="overlay-work bg-dark" />
                         <div className="content">
-                          <Link href="#" className="title text-white d-block font-weight-bold">Digital Marketing</Link>
+                          <Link href="#" className="title text-white d-block font-weight-bold"></Link>
                         </div>
                       </div>
                     </div>
@@ -98,7 +104,7 @@ export default function About() {
                             <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/about/ab02.jpg" className="img-fluid" alt="work-image" />
                             <div className="overlay-work bg-dark" />
                             <div className="content">
-                              <Link href="#" className="title text-white d-block font-weight-bold">Dev</Link>
+                              <Link href="#" className="title text-white d-block font-weight-bold"></Link>
                             </div>
                           </div>
                         </div>
@@ -109,7 +115,7 @@ export default function About() {
                             <img src="https://ik.imagekit.io/atominc/ATOMCODE_Web/about/ab03.jpg" className="img-fluid" alt="work-image" />
                             <div className="overlay-work bg-dark" />
                             <div className="content">
-                              <Link href="#" className="title text-white d-block font-weight-bold">In-Office Tranings</Link>
+                              <Link href="#" className="title text-white d-block font-weight-bold"></Link>
                             </div>
                           </div>
                         </div>
@@ -120,16 +126,19 @@ export default function About() {
               </div>
               <div className="col-lg-6 col-md-6 mt-4 mt-lg-0 pt- pt-lg-0">
                 <div className="ml-lg-4">
-                  <div className="section-title mb-4 pb-2">
+                  <div className="section-title mb-0 pb-2">
                     <h4 className="title mb-4">About Our Story</h4>
-                    <p className="text-muted para-desc">We are the <span className="text-indigo font-weight-bold">Tech Startup</span> founded on 2019, we have done a lot of projects on web and mobile Dev.</p>
-                    <p className="text-muted para-desc ">We provides modern web and mobile services at affordable cost. We helps to grow the hundreds of local customers business by developing modern websites and mobile applications and SEO .</p>
-                    <p className="text-muted para-desc mb-0">Our services are </p>
+                    <p className="text-muted para-desc">AtomCode is a <span className="text-indigo font-weight-bold">EdTech Startup</span> founded on 2023. Powered by <span className="activex font-weight-bold"> Atom Labs</span></p>
+                    <p className="text-muted para-desc ">
+                      We are a team of passionate technologists, educators, and industry experts dedicated to bridging the gap between education and real-world applications.
+                      Our AI-driven learning approach ensures that every learner gets a personalized experience, helping them grasp complex concepts faster and apply them in real-world scenarios.
+                    </p>
+                    <p className="text-muted para-desc mb-0">Our Highlights </p>
                   </div>
                   <ul className="list-unstyled text-muted">
-                    <li className="mb-0 py-1"><span className="text-indigo h4 mr-2"><CheckCircle/></span>Web and Mobile Apps development</li>
-                    <li className="mb-0 py-1"><span className="text-indigo h4 mr-2"><CheckCircle/></span>Digital marketing &amp; SEO, Social Media Marketing</li>
-                    <li className="mb-0 py-1"><span className="text-indigo h4 mr-2"><CheckCircle/></span>Training Programs (Technical Skills)</li>
+                    <li className="mb-0 py-1"><span className="text-indigo h4 mr-2"><CheckCircle /></span>Industrial Mentors</li>
+                    <li className="mb-0 py-1"><span className="text-indigo h4 mr-2"><CheckCircle /></span>Real world Project based practices</li>
+                    <li className="mb-0 py-1"><span className="text-indigo h4 mr-2"><CheckCircle /></span>AI-driven learning approach</li>
                   </ul>
                 </div>
               </div>
