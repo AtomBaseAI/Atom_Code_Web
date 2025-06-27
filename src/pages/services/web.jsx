@@ -119,9 +119,9 @@ export default function Web() {
                   <ul className="list-unstyled text-muted">
                     <li className="mb-0 py-1"><span className="text-indigo h5 mr-2"><CheckCircle /></span>Student Learning Panel with AI integrated IDE & Workspace for Pracetise</li>
                     <li className="mb-0 py-1"><span className="text-indigo h5 mr-2"><CheckCircle /></span>Assessment Panel with Best Proctoring and tabswitch monitering</li>
-                    <li className="mb-0 py-1"><span className="text-indigo h5 mr-2"><CheckCircle /></span>Optimized DB performance with MYSQL(sql)/MONGO DB(nosql)</li>
-                    <li className="mb-0 py-1"><span className="text-indigo h5 mr-2"><CheckCircle /></span>Powerfull Servers with GODADDY shared SSD(websites) &amp; AWS (Apps)</li>
-                    <li className="mb-0 py-1"><span className="text-indigo h5 mr-2"><CheckCircle /></span>SSL &amp; DDOS Secured with CLOUDFLARE</li>
+                    <li className="mb-0 py-1"><span className="text-indigo h5 mr-2"><CheckCircle /></span>Lab Panel with Industrial / Interview questions for Placement Preperation</li>
+                    <li className="mb-0 py-1"><span className="text-indigo h5 mr-2"><CheckCircle /></span>Staff Panel incudes Monitering & analysis for specific set of assigned students</li>
+                    <li className="mb-0 py-1"><span className="text-indigo h5 mr-2"><CheckCircle /></span>Admin Panel includes the Extensive analysis result matrix & leaderboard for all enrolled students </li>
                   </ul>
                 </div>
               </div>
