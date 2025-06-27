@@ -34,7 +34,7 @@ export default function Home() {
             <div className="col-12 text-center">
               <div className="section-title mb-4 pb-2">
                 <h4 className="title mb-4">Our Highlights</h4>
-                <p className="text-muted para-desc mb-0 mx-auto">We provide highly scalable &amp; more efficient technical services to upgrade your<span className="text-indigo font-weight-bold"> business</span> in online world </p>
+                <p className="text-muted para-desc mb-0 mx-auto">We provide highly scalable &amp; more efficient technical services to enhance<span className="text-indigo font-weight-bold"> Student's</span> skills </p>
               </div>
             </div>
           </div>
@@ -84,7 +84,7 @@ export default function Home() {
                   <BarChart2 size={40} />
                 </span>
                 <div className="card-body p-0 content">
-                  <h5>Extensive Analysis</h5>
+                  <h5>Extensive Analysis & Leaderboards</h5>
                 </div>
                 <span className="big-icon text-center">
                   <BarChart2 size={130} />
@@ -248,7 +248,9 @@ export default function Home() {
         <div className=" text-center">
           <div className="section-title">
             <h4 className="title mb-4">Have Question ? Get in touch!</h4>
-            <p className="text-muted para-desc mx-auto">Start your bussiness's digital services with<span className="text-indigo font-weight-bold"> Atom Code</span>'s technicial experts. Contact us to get more detials about our services and pricings</p>
+            <p className="text-muted para-desc mx-auto">Enhance your institution’s capabilities with industry-relevant cloud and coding training from
+              <span className="text-indigo font-weight-bold"> Atom Code</span>'s certified experts.
+              Contact us to get more detials about our services and pricings</p>
             <Link href="/contact" className="btn btn-primary mt-4"><i className="mdi mdi-phone" /> Contact us</Link>
           </div>
         </div>
